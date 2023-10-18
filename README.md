@@ -8,14 +8,12 @@ This is a simple virtual environment that uses Audio Sources and Particle System
 ## Installation guide
 In the releases section, download the latest version of the build. To run the application, run Moon View.exe
 ## Other Platforms
-Spatial: Moonlit Woods
-__www.spatial.io/s/Moonlit-Woods-6528181128d9069eddc3f8ac?share=1667209296106747121__
+Spatial: [Moonlit Woods](__www.spatial.io/s/Moonlit-Woods-6528181128d9069eddc3f8ac?share=1667209296106747121__)
 
 
 ## Credits
-Davide Zibo Sun
-2357888
 October 2023
+
 Virtual Worlds
 
 Made in Unity 2022.3.10f1
@@ -34,13 +32,11 @@ Campfire and Chair: Low Poly: Woods Lifestyle
 
 Lamp and Box: Low Poly Christmas Pack Free
 
-Wood Texture: iStock
-__www.istockphoto.com/vector/wood-textured-background-with-lines-gm469806788-62116780__
+Wood Texture: [iStock] (__www.istockphoto.com/vector/wood-textured-background-with-lines-gm469806788-62116780__)
 
-Moon Texture: NASA
-__svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4720__
+Moon Texture: [NASA]
+(__svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4720__)
 
-Campfire Sound Effect 
-__opengameart.org/content/fireplace-sound-loop__
+Campfire Sound Effect: [fireplace-sound](__opengameart.org/content/fireplace-sound-loop__) 
 
 Gramophone song: Fly Me to the Moon - Frank Sinatra
