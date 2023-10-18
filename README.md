@@ -4,11 +4,12 @@ Swansea University M.Sc. Virtual Reality
 This is a simple virtual environment that uses Audio Sources and Particle Systems to create an immersive area in a forest. It was developed in Unity version 2022.3.10f1 and tested on a Meta Quest 2 as part of an assignment.
 
 <img src="images/Preview1.png"/>
+
 ## Installation guide
-In the releases section, download the build *
+In the releases section, download the latest version of the build. To run the application, run Moon View.exe
 ## Other Platforms
 Spatial: Moonlit Woods
-* *www.spatial.io/s/Moonlit-Woods-6528181128d9069eddc3f8ac?share=1667209296106747121* *
+__www.spatial.io/s/Moonlit-Woods-6528181128d9069eddc3f8ac?share=1667209296106747121__
 
 
 ## Credits
@@ -34,12 +35,12 @@ Campfire and Chair: Low Poly: Woods Lifestyle
 Lamp and Box: Low Poly Christmas Pack Free
 
 Wood Texture: iStock
-* *www.istockphoto.com/vector/wood-textured-background-with-lines-gm469806788-62116780* *
+__www.istockphoto.com/vector/wood-textured-background-with-lines-gm469806788-62116780__
 
 Moon Texture: NASA
-* *svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4720* *
+__svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4720__
 
 Campfire Sound Effect 
-* *opengameart.org/content/fireplace-sound-loop* *
+__opengameart.org/content/fireplace-sound-loop__
 
 Gramophone song: Fly Me to the Moon - Frank Sinatra
